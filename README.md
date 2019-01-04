@@ -1,3 +1,3 @@
 # graphql-demo
 
-Some adventures wiht GraphQL
+Some adventures with GraphQL
